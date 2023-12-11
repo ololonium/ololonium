@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redis/redis-plain-wordmark.svg" title="redis" width="40" height="40"/>&nbsp;
 
-- 🌱 I’m currently learning: &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" width="40" height="40"/>](https://www.docker.com/)
+- 🌱 I’m currently learning: &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" width="40" height="40"/>](https://www.docker.com/), &nbsp; [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>](https://www.adobe.com/products/photoshop.html)
 - 🌍 I speak English(B1), Russian
 - 📫 How to reach me: &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" width="20" height="20"/>](https://t.me/YangeLoL), &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/600px-VK.com-logo.svg.png" width="20" height="20"/>](https://vk.com/ololonium), &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" width="20" height="20"/>](mailto:ololonium@gmail.com)
 
