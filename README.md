@@ -6,7 +6,7 @@
 
 ### Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="py" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="py" width="40" height="40"/>&nbsp;
 <!--
 **ololonium/ololonium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
