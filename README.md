@@ -4,7 +4,7 @@
 </div>
 
 
-### Languages and tools
+### 🛠 &nbsp;Languages and Tools :
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg" title="django" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original.svg" title="sqlite" width="40" height="40"/>&nbsp;
@@ -16,7 +16,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redis/redis-plain-wordmark.svg" title="redis" width="40" height="40"/>&nbsp;
 
 
-### My stat
+- 📫 How to reach me: &nbsp; [![Telegramm](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png)](https://t.me/YangeLoL)
+
+
+### 🔥 &nbsp; My Stats :
 <div id="stat" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ololonium&theme=react" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ololonium&theme=react" alt=""/>
