@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redis/redis-plain-wordmark.svg" title="redis" width="40" height="40"/>&nbsp;
 
 
-- 📫 How to reach me: &nbsp; [email](mailto:email-address)
+- 📫 How to reach me: &nbsp; [email](mailto:ololonium@gmail.com)
 
 
 ### 🔥 &nbsp; My Stats :
