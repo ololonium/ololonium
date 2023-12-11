@@ -15,7 +15,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/fastapi/fastapi-original.svg" title="fastapi" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ololonium&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ololonium&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ololonium&theme=react)
 <!--
 **ololonium/ololonium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
