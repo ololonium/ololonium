@@ -7,6 +7,7 @@
 ### 🛠 &nbsp;Languages and Tools :
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg" title="django" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="rest" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original.svg" title="sqlite" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg" title="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
@@ -27,6 +28,7 @@
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ololonium&theme=react&utcOffset=8" alt=""/>
 </div>
 
+### 📖 &nbsp; Сertificates of completion of courses :
 <div align="center">
     <img src="https://github.com/ololonium/ololonium/blob/main/developer.jpg" title="developer" width="375" height="211"/>&nbsp;
     <img src="https://github.com/ololonium/ololonium/blob/main/razrab.jpg" title="razrab" width="375" height="211"/>&nbsp;
