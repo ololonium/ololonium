@@ -27,10 +27,10 @@
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ololonium&theme=react&utcOffset=8" alt=""/>
 </div>
 
-<img src="https://github.com/ololonium/ololonium/blob/main/developer.jpg" title="developer" width="750" height="422"/>&nbsp;
-<img src="https://github.com/ololonium/ololonium/blob/main/razrab.jpg" title="razrab" width="750" height="422"/>&nbsp;
-<img src="https://github.com/ololonium/ololonium/blob/main/resteng.jpg" title="resteng" width="750" height="422"/>&nbsp;
-<img src="https://github.com/ololonium/ololonium/blob/main/restrus.jpg" title="restrus" width="750" height="422"/>&nbsp;
+<img src="https://github.com/ololonium/ololonium/blob/main/developer.jpg" title="developer" width="375" height="211"/>&nbsp;
+<img src="https://github.com/ololonium/ololonium/blob/main/razrab.jpg" title="razrab" width="375" height="211"/>&nbsp;
+<img src="https://github.com/ololonium/ololonium/blob/main/resteng.jpg" title="resteng" width="375" height="211"/>&nbsp;
+<img src="https://github.com/ololonium/ololonium/blob/main/restrus.jpg" title="restrus" width="375" height="211"/>&nbsp;
 
 
 <!--
